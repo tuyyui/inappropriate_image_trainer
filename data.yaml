@@ -1,6 +1,6 @@
 # data.yaml
-train: C:\Users\Justi\offensiveimage\training_data\images\images\train
-val: C:\Users\Justi\offensiveimage\training_data\images\images\val
+train: ..\training_data\images\images\train
+val: ..\training_data\images\images\val
 # test: /path/to/your/dataset/images/test  # (optional)
 
 nc: 1
